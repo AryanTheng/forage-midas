@@ -1,0 +1,7 @@
+{
+  "name": "Java 17 Spring Dev",
+  "image": "mcr.microsoft.com/devcontainers/java:17",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/maven:2": {}
+  }
+}
